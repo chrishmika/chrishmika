@@ -11,7 +11,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrishmika&show_icons=true&hide_border=true)
 
 
-
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 
 
