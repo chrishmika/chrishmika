@@ -51,7 +51,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.youtube.com/@Shortfactors" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="@Shortfactors" height="50" width="50" /></a>
+<a href="https://www.youtube.com/@Shortfactors" target="blank"><img align="center" src="https://github.com/user-attachments/assets/edec2607-cdd7-4641-a026-73da6f10c65a" alt="image" height="70" width="70" /></a>
 <a href="https://linkedin.com/in/shehan-chrishmika" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="shehan-chrishmika" height="50" width="50" /></a>
 <a href="https://fb.com/chrishmika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shehan-chrishmika" height="50" width="50" /></a>
 <a href="https://www.instagram.com/chrishmika_fernando/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="shehan-chrishmika" height="50" width="50" /></a>
